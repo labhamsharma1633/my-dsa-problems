@@ -19,6 +19,7 @@ int main(){
     // cout<<s;
     removeChar("",str);
     cout<<"hello";
+    cout<<"labham";
 
 
     return 0;
