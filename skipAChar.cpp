@@ -18,6 +18,7 @@ int main(){
     // }
     // cout<<s;
     removeChar("",str);
+    cout<<"hello";
 
 
     return 0;
